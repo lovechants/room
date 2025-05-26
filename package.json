@@ -1,0 +1,33 @@
+{
+  "name": "room-3d-converter",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Converting 2D room images to 3D environments with AI furniture placement",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "three": "^0.158.0",
+    "@tensorflow/tfjs": "^4.15.0"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.37",
+    "@types/react-dom": "^18.2.15",
+    "@types/three": "^0.158.3",
+    "@vitejs/plugin-react": "^4.1.1",
+    "vite": "^5.0.0"
+  },
+  "keywords": [
+    "3d",
+    "computer-vision",
+    "ai",
+    "react"
+  ],
+  "author": "Jayden F. & Michael O.",
+  "license": "MIT"
+}
