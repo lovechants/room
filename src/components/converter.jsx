@@ -463,7 +463,7 @@ const Room3DConverter = () => {
     <div className="min-h-screen bg-gray-100 text-gray-900">
       <div className="max-w-7xl mx-auto p-8">
         <h1 className="text-4xl font-light mb-12 text-center text-gray-800">
-          Room Staging Tool
+          Staging
         </h1>
         
         {error && (
